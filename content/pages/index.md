@@ -7,6 +7,7 @@ sections:
       - label: About us
         url: /features
         style: primary
+        new_window: true
       - label: Contact Us
         url: /contact
         style: secondary
