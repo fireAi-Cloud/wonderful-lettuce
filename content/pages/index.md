@@ -2,7 +2,7 @@
 title: Welcome
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: "\U0001F525"
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
