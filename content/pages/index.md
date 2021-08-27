@@ -17,7 +17,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    align: left
+    align: center
     image: /images/F5F9ADDB-DB7D-48BB-B455-1280FD150C13.jpeg
     image_alt: Hero placeholder image
     image_position: right
