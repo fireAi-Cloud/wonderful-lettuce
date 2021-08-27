@@ -2,7 +2,7 @@
 title: Welcome
 sections:
   - type: hero_section
-    title: "\U0001F525"
+    title: "\U0001F525fireAi.one "
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
