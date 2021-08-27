@@ -11,6 +11,12 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     align: left
     image: /images/F5F9ADDB-DB7D-48BB-B455-1280FD150C13.jpeg
     image_alt: Hero placeholder image
