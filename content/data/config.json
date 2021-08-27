@@ -2,7 +2,7 @@
     "title": "Stackbit Starter Theme",
     "path_prefix": "/",
     "header": {
-        "title": "Emoji",
+        "title": "Emojistacks by ",
         "has_nav": true,
         "nav_links": [
             {
