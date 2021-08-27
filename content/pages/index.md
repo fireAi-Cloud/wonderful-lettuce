@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: "\U0001F525fireAi.one | Super Service. Awesome Products."
     actions:
-      - label: 'About '
+      - label: About us
         url: /features
         style: primary
       - label: Contact Us
